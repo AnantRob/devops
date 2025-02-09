@@ -1,3 +1,4 @@
 # devops
-This is all about getting a job
-author- Anant
+This is all about getting a job.
+<br>
+Author- Anant
